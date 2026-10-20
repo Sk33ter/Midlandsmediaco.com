@@ -1,10 +1,10 @@
 /* Midlands Media Co. — mobile-first styles */
 
 :root {
-  --navy: #0e1e3a;
-  --navy-2: #16294d;
-  --gold: #d9a821;
-  --gold-dark: #b8891a;
+  --navy: #3b5266;
+  --navy-2: #4e6a82;
+  --gold: #c0a062;
+  --gold-dark: #a68c5a;
   --ink: #1c2333;
   --muted: #5b6478;
   --paper: #ffffff;
@@ -190,7 +190,7 @@ body {
 
 /* ---------- special section ---------- */
 .special {
-  background: linear-gradient(160deg, var(--navy) 0%, #1d3a6e 100%);
+  background: linear-gradient(160deg, var(--navy) 0%, #5a7a94 100%);
   color: #fff;
   text-align: center;
 }
